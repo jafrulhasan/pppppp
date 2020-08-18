@@ -1,0 +1,67 @@
+body{
+     background: url(https://cameronscookware.com/wp-content/uploads/2019/12/dark-backgrounds-hd-unique-dark-wallpapers-hd-free-inspiration-of-dark-backgrounds-hd.jpg) ; background-size: 100%">
+;
+}
+.btnclass{
+    text-align:center; 
+    background: #40739e; 
+    font-size: 15px; 
+    text-align: center; 
+    height: 35px; 
+    color: white; 
+    width: 93px;
+}
+first{
+	width: 40%;
+	height: 700px;
+	background-color: #;
+	margin: 0px auto;
+}
+
+h1{
+	text-align: center;
+	color: #fff;
+	padding-top: 110px;
+	font-size: 45px;
+}
+h3{
+	background-color: #40739e;
+	padding: 5px 0;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 25%;
+
+}
+h5{
+	text-align: center;
+	color: #fff;
+}
+a{
+	color: #fff;
+	background-color:#40739e;
+	padding: 5px 10px;
+	text-decoration: none;
+
+	
+}
+
+ h4{
+	
+	color: #fff;
+	margin-top: 80px;
+	display: inline-block;
+	margin-left: 190px;
+
+}
+
+p{
+	display: inline;
+	margin-left: 60px;
+	font-size: 30px;
+	color: #fff;
+}
+
+h6{
+	display: inline-block;
+	color: #487eb0;
+}
